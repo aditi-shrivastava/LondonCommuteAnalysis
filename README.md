@@ -6,9 +6,9 @@ Looking at how transport plays the role of a backbone of a city, our project foc
 
 ## Contributors: 
 
-Aditi Shrivastava
-Anuj Saboo
-Rishabh Jain
+* Aditi Shrivastava
+* Anuj Saboo
+* Rishabh Jain
 
 ## 5 minute demo: https://www.youtube.com/watch?v=_Sutw9RaUlE
 
@@ -19,5 +19,4 @@ Rishabh Jain
 * Backend Database: PostgreSQL  
 * Visualization: Plotly, Folium, Mapbox  
 * Twitter sentiment analysis: tweepy, twython, wordcloud  
-* Frontend: Dash by Plotly  
-
+* Frontend: Dash by Plotly
